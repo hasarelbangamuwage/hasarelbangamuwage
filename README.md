@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋 I'm Hasarel Bangamuwage</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=Software+Engineering+Undergraduate;QA+Enthusiast;Mobile+App+Developer;IoT+Project+Builder" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=Software+Engineering+Undergraduate;Aspiring+QA+Engineer;Mobile+Application+Developer" />
 </p>
+
 # Hi 👋 I'm Hasarel Bangamuwage
 
 🎓 Software Engineering Undergraduate @ Sri Lanka Technology Campus  
