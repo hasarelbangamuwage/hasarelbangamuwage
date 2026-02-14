@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋 I'm Hasarel Bangamuwage</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=Software+Engineering+Undergraduate;Aspiring+QA+Engineer;Mobile+Application+Developer" />
+  <img src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGxvd3FzcThhMzh2OHMyZzdrNXRqYnN5bHZxdTZzOHY0NWdvajc5YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif/> width="800"
 </p>
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasarelbangamuwage&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hasarelbangamuwage&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasarelbangamuwage&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasarelbangamuwage&layout=compact&theme=tokyonight" />
-</p>
+
 ## 🛠 Tech Stack
 
 <p align="center">
