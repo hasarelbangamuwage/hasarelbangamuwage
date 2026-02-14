@@ -1,18 +1,15 @@
-<h1 align="center">Hi 👋 I'm Hasarel Bangamuwage</h1>
+<h1 align="center">Hasarel Bangamuwage</h1>
+
 <p align="center">
-  <img src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGxvd3FzcThhMzh2OHMyZzdrNXRqYnN5bHZxdTZzOHY0NWdvajc5YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif/> width="800"
+  Software Engineering Undergraduate
 </p>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&lines=QA+Engineer;Mobile+Application+Developer;Focused+on+Quality+%26+Clean+Code" />
 </p>
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hasarelbangamuwage&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasarelbangamuwage&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-## 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,js,python,react,firebase,git,github,figma,androidstudio" />
-</p>
+
+---
+
 
 🎓 Software Engineering Undergraduate @ Sri Lanka Technology Campus  
 🧪 QA Enthusiast | 📱 Mobile App Developer (Kotlin & React Native)  
