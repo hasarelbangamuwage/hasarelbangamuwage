@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋 I'm Hasarel Bangamuwage
 
-<!--
-**hasarelbangamuwage/hasarelbangamuwage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Undergraduate @ Sri Lanka Technology Campus  
+🧪 QA Enthusiast | 📱 Mobile App Developer (Kotlin & React Native)  
+🎨 UI/UX Designer (Figma) | 🌐 IoT & API-Based Projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- Passionate about Software Quality Assurance and Mobile Development  
+- Hands-on experience in manual testing, SDLC & STLC  
+- Worked on IoT-based Final Year Project (GuardianEye)  
+- Interested in building reliable and well-tested applications  
+
+---
+
+## 🛠 Tech Stack
+**Languages:** Kotlin, Java, JavaScript, Python  
+**Mobile:** Android (Kotlin), React Native  
+**QA:** Manual Testing, Test Cases, Bug Reporting  
+**Backend:** Firebase, REST APIs, SQLite  
+**Tools:** Git, GitHub, Android Studio, Postman, Figma  
+
+---
+
+## 📌 Projects
+- 🔹 GuardianEye – IoT Enabled Smart Crowd Crime Monitoring System  
+- 🔹 Autonomous Arrow Following Robot  
+- 🔹 Book Store Mobile Application  
+
+---
+
+## 📫 Connect with Me
+- 🔗 LinkedIn: https://www.linkedin.com/in/hasarel-bangamuwage-107321338/
+- 📧 Email: hasarelbangamuwage1998@gmail.com
+
