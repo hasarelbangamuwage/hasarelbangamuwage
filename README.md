@@ -50,4 +50,4 @@
 ---
 
 
-<p><img align="Left" src="https://github-readme-streak-stats.herokuapp.com/?user=hasarelbangamuwage&" alt="hasarelbangamuwage" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasarelbangamuwage&" alt="hasarelbangamuwage" /></p>
