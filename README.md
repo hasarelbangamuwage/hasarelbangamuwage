@@ -6,7 +6,17 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800"/>
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hasarelbangamuwage&show_icons=true&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasarelbangamuwage&layout=compact&theme=tokyonight" />
+</p>
+## 🛠 Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,js,python,react,firebase,git,github,figma,androidstudio" />
+</p>
 
 🎓 Software Engineering Undergraduate @ Sri Lanka Technology Campus  
 🧪 QA Enthusiast | 📱 Mobile App Developer (Kotlin & React Native)  
