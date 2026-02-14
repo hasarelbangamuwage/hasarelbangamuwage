@@ -4,8 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=Software+Engineering+Undergraduate;Aspiring+QA+Engineer;Mobile+Application+Developer" />
 </p>
 <p align="center">
-  <img src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGxvd3FzcThhMzh2OHMyZzdrNXRqYnN5bHZxdTZzOHY0NWdvajc5YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800"/>
 </p>
+
 
 🎓 Software Engineering Undergraduate @ Sri Lanka Technology Campus  
 🧪 QA Enthusiast | 📱 Mobile App Developer (Kotlin & React Native)  
