@@ -1,6 +1,7 @@
-<h1 align="center">Hasarel Bangamuwage</h1>
+<h1 align="center">Hi 👋 I'm Hasarel Bangamuwage</h1>
+
 <p align="center">
-  <strong>Software Engineering Undergraduate</strong>
+  <b>Software Engineering Undergraduate</b>
 </p>
 
 <p align="center">
@@ -9,19 +10,32 @@
 
 ---
 
-### 👨‍💻 About Me
-Passionate about Software Quality Assurance, mobile application development, and building reliable systems. I enjoy learning and applying QA processes, writing test cases, and developing mobile apps using Kotlin & React Native.
+## 👨‍💻 About Me
+
+Passionate about **Software Quality Assurance** and **Mobile Application Development**.  
+I enjoy applying QA processes, writing test cases, and developing reliable mobile applications using Kotlin & React Native.
 
 ---
 
-📊 **GitHub Stats**
+## 🛠 Tech Stack
+
+**Languages:** Kotlin, Java, JavaScript, Python  
+**Mobile:** Android (Kotlin), React Native  
+**QA:** Manual Testing, SDLC, STLC, Test Cases, Bug Reporting  
+**Backend:** Firebase, REST APIs, SQLite  
+**Tools:** Git, GitHub, Android Studio, Postman, Figma  
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hasarelbangamuwage&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasarelbangamuwage&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hasarelbangamuwage&theme=tokyonight&hide_border=true" />
 </p>
 
-### 📫 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/hasarel-bangamuwage-107321338/
-- Email: hasarelbangamuwage1998@gmail.com
+---
 
+## 📫 Connect with Me
 
+- 🔗 LinkedIn: https://www.linkedin.com/in/hasarel-bangamuwage-107321338/
+- 📧 Email: hasarelbangamuwage1998@gmail.com
